@@ -4,7 +4,7 @@
 # to help resolve a vision based problem where their Camera often     #
 # pick up a salt and pepper noise while at high speed.                #
 # You have been provided with an image of dimension 716 X 295.        #
-# This image most fit into a custom vehicle detection neural network  #
+# This image must fit into a custom vehicle detection neural network  #
 # with an input layer of size 600 X 250.                              #
 # Please write a short pre-processing program that will clear up      #
 # the noise and also match the input layer of the DNN                 #
